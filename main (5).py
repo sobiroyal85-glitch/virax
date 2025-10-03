@@ -29,6 +29,7 @@ BOT_TOKEN = "7721189428:AAF0jNEXaJ3Ra9dhSrogu6QthQBwqZYe9oU"
 CHANNEL_ID = "@VIRAXcpl"
 ADMIN_ID = 2054901055
 
+
 # ------------------ تعریف ادمین‌ها ------------------ #
 ADMINS = [2054901055, 7772858062]
 bot = telebot.TeleBot(BOT_TOKEN)
